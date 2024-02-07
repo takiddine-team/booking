@@ -1,0 +1,42 @@
+2024-01-22T17:11:59+00:00 CRITICAL Uncaught Error: Call to undefined function Inc\Base\st() in /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/plugins/traveler-layout-essential-for-elementor/inc/Base/ST_Enqueue.php:25
+Stack trace:
+#0 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(324): Inc\Base\ST_Enqueue->enqueue()
+#1 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/script-loader.php(2262): do_action()
+#4 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts()
+#5 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/general-template.php(3052): do_action()
+#8 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/themes/hello-elementor/header.php(24): wp_head()
+#9 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/template.php(790): require_once('...')
+#10 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/template.php(725): load_template()
+#11 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/general-template.php(48): locate_template()
+#12 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/themes/hello-elementor/index.php(15): get_header()
+#13 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/template-loader.php(106): include('...')
+#14 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-blog-header.php(19): require_once('...')
+#15 /home/takiddine-booking/htdocs/booking.takiddine.live/index.php(17): require('...')
+#16 {main}
+  thrown in /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/plugins/traveler-layout-essential-for-elementor/inc/Base/ST_Enqueue.php on line 25
+
+2024-01-22T18:06:37+00:00 CRITICAL Uncaught Error: Call to undefined function Inc\Base\st() in /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/plugins/traveler-layout-essential-for-elementor/inc/Base/ST_Enqueue.php:25
+Stack trace:
+#0 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(324): Inc\Base\ST_Enqueue->enqueue()
+#1 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/script-loader.php(2262): do_action()
+#4 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts()
+#5 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/general-template.php(3052): do_action()
+#8 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/themes/hello-elementor/header.php(24): wp_head()
+#9 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/template.php(790): require_once('...')
+#10 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/template.php(725): load_template()
+#11 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/general-template.php(48): locate_template()
+#12 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/themes/hello-elementor/index.php(15): get_header()
+#13 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-includes/template-loader.php(106): include('...')
+#14 /home/takiddine-booking/htdocs/booking.takiddine.live/wp-blog-header.php(19): require_once('...')
+#15 /home/takiddine-booking/htdocs/booking.takiddine.live/index.php(17): require('...')
+#16 {main}
+  thrown in /home/takiddine-booking/htdocs/booking.takiddine.live/wp-content/plugins/traveler-layout-essential-for-elementor/inc/Base/ST_Enqueue.php on line 25
+

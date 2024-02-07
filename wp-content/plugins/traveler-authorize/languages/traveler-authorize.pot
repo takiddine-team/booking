@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Traveler\n"
+"POT-Creation-Date: 2019-05-13 14:18+0700\n"
+"PO-Revision-Date: 2017-04-15 08:58+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__(;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: inc/authorize.php:54
+msgid "Traveler Notice:"
+msgstr ""
+
+#: inc/authorize.php:56
+#, php-format
+msgid "<strong>Authorize.net</strong> require %s version %s or above. Your current is %s"
+msgstr ""
+
+#: inc/authorize.php:56
+msgid "Traveler Code"
+msgstr ""
+
+#: inc/authorize.php:60
+msgid "Learn how to update it"
+msgstr ""
+
+#: inc/authorize.php:64 inc/authorize.php:67
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/authorize.php:82 inc/authorize.php:85
+msgid "Login ID"
+msgstr ""
+
+#: inc/authorize.php:90 inc/authorize.php:93
+msgid "Transaction Key"
+msgstr ""
+
+#: inc/authorize.php:98
+msgid "Enable Test Mode"
+msgstr ""
+
+#: inc/authorize.php:102
+msgid "Allow you to enable test mode"
+msgstr ""
+
+#: inc/authorize.php:111 inc/authorize.php:189
+msgid "Card Name"
+msgstr ""
+
+#: inc/authorize.php:112 inc/authorize.php:190
+msgid "Card Number"
+msgstr ""
+
+#: inc/authorize.php:113 inc/authorize.php:191
+msgid "Expiry Month"
+msgstr ""
+
+#: inc/authorize.php:114 inc/authorize.php:192
+msgid "Expiry Year"
+msgstr ""
+
+#: inc/authorize.php:115 inc/authorize.php:193
+msgid "Card Code"
+msgstr ""
+
+#: inc/authorize.php:185 inc/authorize.php:263
+msgid "This function is off"
+msgstr ""
+
+#: inc/authorize.php:223
+msgid "Member Package"
+msgstr ""
+
+#: inc/authorize.php:283
+msgid "Authorize.net"
+msgstr ""
+
+#: views/authorize.php:14
+msgid "Name on the Card (*)"
+msgstr ""
+
+#: views/authorize.php:16
+msgid "Card name"
+msgstr ""
+
+#: views/authorize.php:20
+msgid "Card number (*)"
+msgstr ""
+
+#: views/authorize.php:22
+msgid "Your card number"
+msgstr ""
+
+#: views/authorize.php:29
+msgid "Month (*)"
+msgstr ""
+
+#: views/authorize.php:31
+msgid "Month"
+msgstr ""
+
+#: views/authorize.php:40
+msgid "Year (*)"
+msgstr ""
+
+#: views/authorize.php:42
+msgid "Year"
+msgstr ""
+
+#: views/authorize.php:54
+msgid "CVV (*)"
+msgstr ""

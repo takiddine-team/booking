@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Traveler\n"
+"POT-Creation-Date: 2019-05-13 14:20+0700\n"
+"PO-Revision-Date: 2017-04-15 08:58+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__(;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: inc/twocheckout.php:53
+msgid "Traveler Notice:"
+msgstr ""
+
+#: inc/twocheckout.php:55
+#, php-format
+msgid "<strong>TwoCheckout</strong> require %s version %s or above. Your current is %s"
+msgstr ""
+
+#: inc/twocheckout.php:55
+msgid "Traveler Code"
+msgstr ""
+
+#: inc/twocheckout.php:59
+msgid "Learn how to update it"
+msgstr ""
+
+#: inc/twocheckout.php:63 inc/twocheckout.php:66
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/twocheckout.php:80 inc/twocheckout.php:83
+msgid "Account Number"
+msgstr ""
+
+#: inc/twocheckout.php:88 inc/twocheckout.php:91
+msgid "Public Key"
+msgstr ""
+
+#: inc/twocheckout.php:96 inc/twocheckout.php:99
+msgid "Private Key"
+msgstr ""
+
+#: inc/twocheckout.php:104
+msgid "Enable Test Mode"
+msgstr ""
+
+#: inc/twocheckout.php:108
+msgid "Allow you to enable test mode"
+msgstr ""
+
+#: inc/twocheckout.php:117 inc/twocheckout.php:200
+msgid "Card Name"
+msgstr ""
+
+#: inc/twocheckout.php:118 inc/twocheckout.php:201
+msgid "Card Number"
+msgstr ""
+
+#: inc/twocheckout.php:119 inc/twocheckout.php:202
+msgid "Expiry Month"
+msgstr ""
+
+#: inc/twocheckout.php:120 inc/twocheckout.php:203
+msgid "Expiry Year"
+msgstr ""
+
+#: inc/twocheckout.php:121 inc/twocheckout.php:204
+msgid "Card Code"
+msgstr ""
+
+#: inc/twocheckout.php:155
+msgid "Order:"
+msgstr ""
+
+#: inc/twocheckout.php:196
+msgid "This function is off"
+msgstr ""
+
+#: inc/twocheckout.php:225
+msgid "Member Package:"
+msgstr ""
+
+#: inc/twocheckout.php:298
+msgid "TwoCheckout"
+msgstr ""
+
+#: views/twocheckout.php:15
+msgid "Name on the Card (*)"
+msgstr ""
+
+#: views/twocheckout.php:17
+msgid "Card name"
+msgstr ""
+
+#: views/twocheckout.php:21
+msgid "Card number (*)"
+msgstr ""
+
+#: views/twocheckout.php:23
+msgid "Your card number"
+msgstr ""
+
+#: views/twocheckout.php:30
+msgid "Month (*)"
+msgstr ""
+
+#: views/twocheckout.php:32
+msgid "Month"
+msgstr ""
+
+#: views/twocheckout.php:41
+msgid "Year (*)"
+msgstr ""
+
+#: views/twocheckout.php:43
+msgid "Year"
+msgstr ""
+
+#: views/twocheckout.php:55
+msgid "CVV (*)"
+msgstr ""
